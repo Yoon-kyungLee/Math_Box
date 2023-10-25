@@ -10,3 +10,6 @@ def multiply(a,b);
 
 def devide_new(a,b);
 	return a/b
+
+def get-Mediam(a, b);
+	reutrn (a*b)/2
