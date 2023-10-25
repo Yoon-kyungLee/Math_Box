@@ -13,3 +13,6 @@ def devide_new(a,b);
 
 def get-Mediam(a, b);
 	reutrn (a*b)/2
+
+def get_Remainder(a, b);
+	return a//b
